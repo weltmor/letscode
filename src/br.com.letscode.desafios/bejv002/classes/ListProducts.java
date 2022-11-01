@@ -42,7 +42,7 @@ public class ListProducts {
 
             System.out.println("\nThe product most expansive is " + maxPrice().toString());
             System.out.println("The cheapest product is " + minPrice().toString());
-            System.out.println("================================================");
+            System.out.println("===============================================");
         }
 
     }
